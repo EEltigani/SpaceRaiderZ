@@ -1,0 +1,25 @@
+\\10.1.0.163\students\10572810\my documents\visual studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\bin\Debug\Space RaiderZ1.exe
+\\10.1.0.163\students\10572810\my documents\visual studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\bin\Debug\Space RaiderZ1.pdb
+\\10.1.0.163\students\10572810\my documents\visual studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\bin\Debug\Space RaiderZ1.xml
+\\10.1.0.163\students\10572810\my documents\visual studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Resources.resources
+\\10.1.0.163\students\10572810\my documents\visual studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space RaiderZ1.vbproj.GenerateResource.Cache
+\\10.1.0.163\students\10572810\my documents\visual studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space RaiderZ1.exe
+\\10.1.0.163\students\10572810\my documents\visual studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space RaiderZ1.xml
+\\10.1.0.163\students\10572810\my documents\visual studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space RaiderZ1.pdb
+\\10.1.0.163\students\10572810\My Documents\Visual Studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Instructions.resources
+\\10.1.0.163\students\10572810\My Documents\Visual Studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Menu_Form.resources
+\\10.1.0.163\students\10572810\My Documents\Visual Studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Start_Form.resources
+\\10.1.0.163\students\10572810\My Documents\Visual Studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Settings.resources
+\\10.1.0.163\students\10572810\My Documents\Visual Studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Form_Space_Attack.resources
+\\10.1.0.163\students\10572810\My Documents\Visual Studio 2010\Projects\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Narrative.resources
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space RaiderZ1.exe
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space RaiderZ1.xml
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space RaiderZ1.pdb
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Form_Space_Attack.resources
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Instructions.resources
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Menu_Form.resources
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Resources.resources
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Narrative.resources
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Settings.resources
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space_RaiderZ.Start_Form.resources
+D:\Level 3 BTEC 90 Credit Diploma In ICT\Unit 22 - Developing Computer Games\Space RaiderZ1\Space RaiderZ1\obj\x86\Debug\Space RaiderZ1.vbproj.GenerateResource.Cache
